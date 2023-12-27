@@ -6,4 +6,4 @@
 
 * * *
 
-_❤️ 님이 함께 제작했습니다. [문서화하다](https://docsify.js.org/)_
+_❤️님이 함께 제작했습니다. [문서화하다](https://docsify.js.org/)_
