@@ -2,7 +2,7 @@
 
 Did you find my iPad? Bring it back and get a reward.
 
-Kontakt: <EMAIL>
+Contact:<EMAIL>
 
 * * *
 
