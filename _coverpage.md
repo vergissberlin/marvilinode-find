@@ -1,7 +1,5 @@
 <!-- _coverpage.md -->
 
-![logo](_media/artwork/thebox-logo-art.png ':size=400')
-
 # My iPad
 
 > You lucky found my iPad. Bring it back and get rewards.
