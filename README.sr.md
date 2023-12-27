@@ -1,6 +1,6 @@
 # Добродошли
 
-Јесте ли пронашли мој иПад? Врати га и добиј награду.
+Du hast mein iPad gefunden? Bring es zurück und erhalte eine Belohnung.
 
 Контакт:<EMAIL>
 
