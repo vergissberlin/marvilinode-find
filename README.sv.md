@@ -1,6 +1,6 @@
 # Välkommen
 
-Du hast mein iPad gefunden? Bring es zurück und erhalte eine Belohnung.
+Hittade du min iPad? Ta tillbaka den och få en belöning.
 
 Kontakt:<EMAIL>
 
