@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <title>TheBox</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="description" content="apartement in Leipzig AirBnB">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <link rel="shortcut icon"
+        href="https://raw.githubusercontent.com/nullzueins/thebox-docs/main/_media/artwork/thebox-logo-art.png"
+        type="image/png">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
+
+    <!-- OpenGraph -->
+    <meta property="og:title" content="TheBox - documentation">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://nullzueins.github.io/thebox-docs/">
+    <meta property="og:image" content="_media/thebox-opengraph.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@nullzueins">
+    <meta name="twitter:creator" content="@nullzueins">
+    <meta name="twitter:title" content="thebox - documentation">
+    <meta name="twitter:description" content="apartement in Leipzig AirBnB">
+    <meta name="twitter:image" content="_media/thebox-opengraph.png">
+
+    <!-- Google -->
+    <meta itemprop="name" content="TheBox - Appartement in Leinpzig">
+    <meta itemprop="description" content="apartement in Leipzig AirBnB">
+    <meta itemprop="image" content="_media/thebox-opengraph.png">
+
+    <style>
+        .grid {
+            column-count: 2;
+            column-gap: 1rem;
+            background: #eee;
+            border-radius: 12px;
+            padding: 1rem;
+            margin-bottom: 2rem;
+            max-width: 1440px;
+        }
+
+        .grid figure {
+            display: inline-block;
+            margin: 0 0 0 0;
+            width: 100%;
+        }
+
+        .grid figcaption {
+            color: #444;
+            font-style: italic;
+            min-height: 3em;
+        }
+
+        .grid img {
+            width: 100%;
+            height: auto;
+        }
+
+        @media screen and (min-width: 480px) {
+            .grid {
+                column-count: 3;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div id="app">Loading …</div>
+    <script>
+        window.$docsify = {
+            basePath: 'https://raw.githubusercontent.com/nullzueins/thebox-docs/main/',
+            maxLevel: 1,
+            mergeNavbar: false,
+            name: 'TheBox',
+            coverpage: {
+                '/': '_coverpage.md',
+                '/en-gb/': '_coverpage.md'
+            },
+            repo: 'nullzueins/thebox-docs',
+            loadSidebar: false,
+            plugins: [],
+            copyCode: {
+                buttonText: {
+                    '/zh-cn/': '点击复制',
+                    '/ru/': 'Скопировать в буфер обмена',
+                    '/de-de/': 'Klicken Sie zum Kopieren',
+                    '/es/': 'Haga clic para copiar',
+                    '/': 'Copy to clipboard',
+                },
+                errorText: {
+                    '/zh-cn/': '错误',
+                    '/ru/': 'ошибка',
+                    '/': 'Error',
+                },
+                successText: {
+                    '/zh-cn/': '复制',
+                    '/ru/': 'Скопировано',
+                    '/de-de/': 'Kopiert',
+                    '/es/': 'Copiado',
+                    '/': 'Copied',
+                },
+            }
+        }
+    </script>
+    <!-- Docsify v4 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+    <!-- Plugins -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+    <script src="https://unpkg.com/docsify-copy-code@2"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/index.min.js"></script>
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/style.min.css" />
+</body>
+
+</html>

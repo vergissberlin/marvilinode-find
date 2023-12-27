@@ -1,0 +1,80 @@
+name: Translate README
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12.x
+      - name: Adding README - Chinese Simplified
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: zh-CN
+      - name: Adding README - Czech
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: cs
+      - name: Adding README - Greek
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: el
+      - name: Adding README - Spanish
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: es
+      - name: Adding README - French
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: fr
+      - name: Adding README - English
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: en
+      - name: Adding README - Japanese
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: ja
+      - name: Adding README - Korean
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: ko
+      - name: Adding README - Norwegian
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: no
+      - name: Adding README - Polski
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: pl
+      - name: Adding README - Portuguese
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: pt
+      - name: Adding README - Ukrainian
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: uk
+      - name: Adding README - Swedish
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: sv
+      - name: Adding README - Serbo-Croatian
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: sr
+      - name: Adding README - Turkish
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: tr
+      - name: Adding README - Vietnamese
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: vi
