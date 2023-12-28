@@ -6,4 +6,4 @@ Kontakt: <EMAIL>
 
 * * *
 
-_tarafından ❤️ ile yapılmıştır [docsify](https://docsify.js.org/)_
+_tarafından ❤️ ile yapılmıştır [belgelemek](https://docsify.js.org/)_
