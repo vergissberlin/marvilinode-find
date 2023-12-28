@@ -1,9 +1,9 @@
-# Willkommen
+# いらっしゃいませ
 
 私のiPadは見つかりましたか？持ち帰って報酬を手に入れましょう。
 
-接触：<EMAIL>
+Kontakt: <EMAIL>
 
 * * *
 
-_❤️で作りました [文書化する](https://docsify.js.org/)_
+_Made with ❤️ by  [文書化する](https://docsify.js.org/)_
