@@ -1,9 +1,9 @@
-# Добродошли
+# Willkommen
 
-Du hast mein iPad gefunden? Bring es zurück und erhalte eine Belohnung.
+Јесте ли пронашли мој иПад? Врати га и добиј награду.
 
-Kontakt: <EMAIL>
+Контакт:<EMAIL>
 
 * * *
 
-_Made with ❤️ by  [docsify](https://docsify.js.org/)_
+_Направљено са ❤ би [доцсифи](https://docsify.js.org/)_
