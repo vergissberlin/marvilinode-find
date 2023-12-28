@@ -2,8 +2,8 @@
 
 Du hast mein iPad gefunden? Bring es zurück und erhalte eine Belohnung.
 
-Контакт:<EMAIL>
+Kontakt: <EMAIL>
 
 * * *
 
-_Направљено са ❤ би [доцсифи](https://docsify.js.org/)_
+_Made with ❤️ by  [docsify](https://docsify.js.org/)_
