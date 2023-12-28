@@ -1,9 +1,9 @@
 # Vítejte
 
-Našli jste můj iPad? Přineste to zpět a získejte odměnu.
+Du hast mein iPad gefunden? Bring es zurück und erhalte eine Belohnung.
 
-Kontakt:<EMAIL>
+Kontakt: <EMAIL>
 
 * * *
 
-_Vyrobeno s ❤️ od [docsify](https://docsify.js.org/)_
+_Vyrobeno s ❤️ od  [docsify](https://docsify.js.org/)_
