@@ -1,9 +1,9 @@
 # Chào mừng
 
-Du hast mein iPad gefunden? Bring es zurück und erhalte eine Belohnung.
+Bạn có tìm thấy iPad của tôi không? Mang nó trở lại và nhận được phần thưởng.
 
 Liên hệ:<EMAIL>
 
 * * *
 
-_Made with ❤️ by  [làm tài liệu](https://docsify.js.org/)_
+_Được làm bằng ❤️ bởi [làm tài liệu](https://docsify.js.org/)_
