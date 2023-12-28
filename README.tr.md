@@ -1,4 +1,4 @@
-# Hoş geldin
+# Willkommen
 
 iPad'imi buldun mu? Onu geri getir ve bir ödül al.
 
