@@ -2,6 +2,8 @@
 
 # My iPad
 
+![iPad](./_assets/images/ipad.png)
+
 > You lucky found my iPad. Bring it back and get rewards.
 
 <div style="font-size: 1.6rem">
