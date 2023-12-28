@@ -1,8 +1,8 @@
 # 欢迎
 
-Du hast mein iPad gefunden? Bring es zurück und erhalte eine Belohnung.
+你找到我的 iPad 了吗？把它带回来并获得奖励。
 
-Kontakt: <EMAIL>
+接触：<EMAIL>
 
 * * *
 
