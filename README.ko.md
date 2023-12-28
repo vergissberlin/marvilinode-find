@@ -1,9 +1,9 @@
-# 환영
+# Willkommen
 
 내 아이패드 찾았어? 가져가서 보상을 받으세요.
 
-연락하다:<EMAIL>
+Kontakt: <EMAIL>
 
 * * *
 
-_❤️님이 함께 제작했습니다. [문서화하다](https://docsify.js.org/)_
+_Made with ❤️ by  [docsify](https://docsify.js.org/)_
