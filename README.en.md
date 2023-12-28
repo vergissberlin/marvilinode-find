@@ -6,4 +6,4 @@ Contact:<EMAIL>
 
 * * *
 
-_Made with ❤️ by  [docsify](https://docsify.js.org/)_
+_Made with ❤️ by [docsify](https://docsify.js.org/)_
