@@ -1,6 +1,6 @@
 # Powitanie
 
-Du hast mein iPad gefunden? Bring es mir und erhalte eine Belohnung.
+Znalazłeś mojego iPada? Przynieś mi go i odbierz nagrodę.
 
 Kontakt:[planet82@outlook.de](mailto:planet82@outlook.de)
 
