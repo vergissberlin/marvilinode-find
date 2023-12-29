@@ -4,7 +4,7 @@
 
 ![iPad](./_assets/images/ipad.png)
 
-> You lucky found my iPad. Bring it back and get rewards.
+> Ein Glück! Du hast mein iPad gefunden. Bitte bringe es mir! Unten findest du meinen Kontakt.
 
 <div style="font-size: 1.6rem">
 
