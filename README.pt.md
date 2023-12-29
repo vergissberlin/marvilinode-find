@@ -1,6 +1,6 @@
 # Bem-vindo
 
-Você encontrou meu iPad? Traga-o de volta e receba uma recompensa.
+Du hast mein iPad gefunden? Bring es zurück und erhalte eine Belohnung.
 
 Contato:<EMAIL>
 
