@@ -1,8 +1,8 @@
 # いらっしゃいませ
 
-私のiPadは見つかりましたか？持ち帰って報酬を手に入れましょう。
+Du hast mein iPad gefunden? Bring es mir und erhalte eine Belohnung.
 
-接触：<EMAIL>
+接触：[ｐぁねｔ８２＠おうｔぉおｋ。で](mailto:planet82@outlook.de)
 
 * * *
 
