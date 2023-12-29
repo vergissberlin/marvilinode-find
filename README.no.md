@@ -6,4 +6,4 @@ Kontakt:<EMAIL>
 
 * * *
 
-_Laget med ❤️ av  [dokumentere](https://docsify.js.org/)_
+_Laget med ❤️ av [dokumentere](https://docsify.js.org/)_
