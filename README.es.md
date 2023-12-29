@@ -2,7 +2,7 @@
 
 ¿Encontraste mi iPad? Tráelo de vuelta y obtén una recompensa.
 
-Kontakt: <EMAIL>
+Contacto:<EMAIL>
 
 * * *
 
