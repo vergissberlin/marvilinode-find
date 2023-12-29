@@ -1,8 +1,8 @@
 # Bienvenido
 
-¿Encontraste mi iPad? Tráelo de vuelta y obtén una recompensa.
+¿Encontraste mi iPad? Tráemelo y obtén una recompensa.
 
-Contacto:<EMAIL>
+Kontakt: [planet82@outlook.de](mailto:planet82@outlook.de)
 
 * * *
 
