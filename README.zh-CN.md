@@ -2,7 +2,7 @@
 
 你找到我的 iPad 了吗？把它带给我并获得奖励。
 
-接触：[planet82@outlook.的](mailto:planet82@outlook.de)
+接触：[planet82@outlook.de](mailto:planet82@outlook.de)
 
 * * *
 
