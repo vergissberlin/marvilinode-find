@@ -1,6 +1,6 @@
 # Accueillir
 
-Avez-vous trouvé mon iPad ? Rapportez-le et obtenez une récompense.
+Du hast mein iPad gefunden? Bring es zurück und erhalte eine Belohnung.
 
 Contact:<EMAIL>
 
