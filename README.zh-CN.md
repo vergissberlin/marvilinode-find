@@ -1,8 +1,8 @@
 # 欢迎
 
-你找到我的 iPad 了吗？把它带回来并获得奖励。
+你找到我的 iPad 了吗？把它带给我并获得奖励。
 
-接触：<EMAIL>
+接触：[planet82@outlook.de](mailto:planet82@outlook.de)
 
 * * *
 
