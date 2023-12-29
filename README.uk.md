@@ -1,6 +1,6 @@
 # Ласкаво просимо
 
-Ви знайшли мій iPad? Принеси мені і отримай нагороду.
+Du hast mein iPad gefunden? Bring es mir und erhalte eine Belohnung.
 
 Контакти:[планет82@оутлук.де](mailto:planet82@outlook.de)
 
