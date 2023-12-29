@@ -1,8 +1,8 @@
 # καλως ΗΡΘΑΤΕ
 
-Βρήκατε το iPad μου; Φέρτε το πίσω και λάβετε ανταμοιβή.
+Du hast mein iPad gefunden? Bring es mir und erhalte eine Belohnung.
 
-Επικοινωνία:<EMAIL>
+Επικοινωνία:[πλανετθ2@ουτλοοκ.δε](mailto:planet82@outlook.de)
 
 * * *
 
