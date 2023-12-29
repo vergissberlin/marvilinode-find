@@ -1,8 +1,8 @@
 # Vítejte
 
-Našli jste můj iPad? Přineste to zpět a získejte odměnu.
+Našli jste můj iPad? Přineste mi to a získejte odměnu.
 
-Kontakt:<EMAIL>
+Kontakt:[planet82@outlook.de](mailto:planet82@outlook.de)
 
 * * *
 
