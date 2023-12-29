@@ -1,8 +1,8 @@
 # Accueillir
 
-Du hast mein iPad gefunden? Bring es zurück und erhalte eine Belohnung.
+Avez-vous trouvé mon iPad ? Apportez-le-moi et recevez une récompense.
 
-Contact:<EMAIL>
+Contact:[planet82@outlook.de](mailto:planet82@outlook.de)
 
 * * *
 
