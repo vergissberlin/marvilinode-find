@@ -1,9 +1,9 @@
-# Välkommen
+# Willkommen
 
-Du hast mein iPad gefunden? Bring es zurück und erhalte eine Belohnung.
+Du hast mein iPad gefunden? Bring es mir und erhalte eine Belohnung.
 
-Kontakt:<EMAIL>
+Kontakt:[planet82@outlook.de](mailto:planet82@outlook.de)
 
 * * *
 
-_Made with ❤️ by  [dokumentera](https://docsify.js.org/)_
+_Gjord med ❤️ av [dokumentera](https://docsify.js.org/)_
