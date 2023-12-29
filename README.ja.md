@@ -6,4 +6,4 @@
 
 * * *
 
-_❤️で作りました [文書化する](https://docsify.js.org/)_
+_❤️で作りました  [文書化する](https://docsify.js.org/)_
