@@ -1,9 +1,9 @@
 # Välkommen
 
-Hittade du min iPad? Ta tillbaka den och få en belöning.
+Du hast mein iPad gefunden? Bring es zurück und erhalte eine Belohnung.
 
 Kontakt:<EMAIL>
 
 * * *
 
-_Gjord med ❤️ av [dokumentera](https://docsify.js.org/)_
+_Made with ❤️ by  [dokumentera](https://docsify.js.org/)_
