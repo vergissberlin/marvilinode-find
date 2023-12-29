@@ -6,4 +6,4 @@
 
 * * *
 
-_Зроблено за допомогою ❤️ [docsify](https://docsify.js.org/)_
+_Made with ❤️ by  [docsify](https://docsify.js.org/)_
