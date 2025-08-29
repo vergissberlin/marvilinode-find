@@ -1,9 +1,9 @@
-# καλως ΗΡΘΑΤΕ
+# Καλωσόρισμα
 
-Βρήκατε το iPad μου; Φέρε μου και πάρε ανταμοιβή.
+Du hast mein iPad gefunden? Bring es mir und erhalte eine Belohnung.
 
-Επικοινωνία:[πλανετθ2@ουτλοοκ.δε](mailto:planet82@outlook.de)
+Επαφή:[planet82@outlook.de](mailto:planet82@outlook.de)
 
 * * *
 
-_Φτιαγμένο με ❤️ από [τεκμηριώνω](https://docsify.js.org/)_
+_Made with ❤️ by  [docsify](https://docsify.js.org/)_
