@@ -1,9 +1,9 @@
-# Velkommen
+# Velkomst
 
-Fant du iPaden min? Ta den til meg og få en belønning.
+Fant du iPad -en min? Ta det med meg og motta en belønning.
 
 Kontakt:[planet82@outlook.de](mailto:planet82@outlook.de)
 
 * * *
 
-_Laget med ❤️ av [dokumentere](https://docsify.js.org/)_
+_Laget med ❤ av [Docsify](https://docsify.js.org/)_
