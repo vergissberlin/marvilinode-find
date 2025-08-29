@@ -1,9 +1,9 @@
 # Chào mừng
 
-Bạn có tìm thấy iPad của tôi không? Hãy mang nó đến cho tôi và nhận phần thưởng.
+Bạn đã tìm thấy iPad của tôi? Mang nó cho tôi và nhận phần thưởng.
 
 Liên hệ:[planet82@outlook.de](mailto:planet82@outlook.de)
 
 * * *
 
-_Được làm bằng ❤️ bởi [làm tài liệu](https://docsify.js.org/)_
+_Được thực hiện bằng ❤ bởi [Docsify](https://docsify.js.org/)_
