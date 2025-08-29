@@ -1,9 +1,9 @@
 # いらっしゃいませ
 
-私のiPadは見つかりましたか？それを私に持ってきて報酬を受け取ります。
+Du hast mein iPad gefunden? Bring es mir und erhalte eine Belohnung.
 
-接触：[ｐぁねｔ８２＠おうｔぉおｋ。で](mailto:planet82@outlook.de)
+接触：[planet82@outlook.de](mailto:planet82@outlook.de)
 
 * * *
 
-_❤️で作りました  [文書化する](https://docsify.js.org/)_
+_Made with ❤️ by  [docsify](https://docsify.js.org/)_
