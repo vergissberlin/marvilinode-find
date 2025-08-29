@@ -1,9 +1,9 @@
 # Accueillir
 
-Avez-vous trouvé mon iPad ? Apportez-le-moi et obtenez une récompense.
+Vous avez trouvé mon iPad? Apportez-moi et recevez une récompense.
 
 Contact:[planet82@outlook.de](mailto:planet82@outlook.de)
 
 * * *
 
-_Réalisé avec ❤️ par [docsifier](https://docsify.js.org/)_
+_Fait avec ❤️ par [doc sirifier](https://docsify.js.org/)_
