@@ -1,9 +1,9 @@
 # Hoş geldin
 
-iPad'imi buldun mu? Onu bana getir ve ödülünü al.
+İPad'imi mi buldun? Bana getir ve bir ödül al.
 
-Kontakt: [planet82@outlook.de](mailto:planet82@outlook.de)
+Temas etmek:[planet82@outlook.de](mailto:planet82@outlook.de)
 
 * * *
 
-_Made with ❤️ by  [docsify](https://docsify.js.org/)_
+_❤️ ile yapılmış [belgelendirmek](https://docsify.js.org/)_
